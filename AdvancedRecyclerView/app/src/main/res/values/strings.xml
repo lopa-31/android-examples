@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Advanced Recycler View</string>
+    <string name="traffic_signs">Traffic_Signs</string>
+    <string name="todo">TODO</string>
+    <string name="sign_name">Sign Name</string>
+    <string name="question">Question</string>
+    <string name="your_axnswer">Your Axnswer:</string>
+</resources>
